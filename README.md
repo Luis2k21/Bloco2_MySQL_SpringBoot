@@ -4,7 +4,7 @@ MySQL Generation
 <h1 align="center">
     <a href="https://www.mysql.com/"> 🐬 MySQL</a>
 </h1>
-<p align="center">🚀 Exercicios com MySQL</p>
+<p align="center">🚀 Exercicios</p>
 
 Tabela
 =================

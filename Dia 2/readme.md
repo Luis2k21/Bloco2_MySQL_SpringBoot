@@ -4,9 +4,9 @@
 
 [exercicios dia 21/09]
 
-<h2><a href="https://github.com/Luis2k21/MySQL/blob/master/Dia%202/ex01Atividade.sql"> Atividade 1</a><h2/>
+<h2><a href="https://github.com/Luis2k21/MySQL/blob/master/Dia%202/ex01Atividade.sql"> Atividade 1</a></h2>
 
-Crie um banco de dados para um serviço de um game Online , o nome do banco deverá ter
+<p>Crie um banco de dados para um serviço de um game Online , o nome do banco deverá ter
 o seguinte nome db_generation_game_online, onde, o sistema trabalhará com as
 informações dos personagens desse game.
 
@@ -36,13 +36,13 @@ Faça um um select com Inner join entre tabela classe e personagem.
 Faça um select onde traga todos os personagem de uma classe específica (exemplo todos
 os personagens que são arqueiros).
 salve as querys para cada uma dos requisitos do exercício em um arquivo .SQL ou texto e
-coloque no seu GitHuB pessoal e compartilhe esta atividade.
+coloque no seu GitHuB pessoal e compartilhe esta atividade.</p>
 
 -------------------------------------------------------------------------------------------------
 
 <h2><a href="https://github.com/Luis2k21/MySQL/blob/master/Dia%202/ex02Atividade.sql"> Atividade 2</a><h2/>
 
-Crie um banco de dados para um serviço de pizzaria de uma empresa, o nome do banco
+<p>Crie um banco de dados para um serviço de pizzaria de uma empresa, o nome do banco
 deverá ter o seguinte nome db_pizzaria_legal, onde o sistema trabalhará com as
 informações dos produtos desta empresa.
 
@@ -72,13 +72,13 @@ Faça um um select com Inner join entre tabela categoria e pizza.
 Faça um select onde traga todos os Produtos de uma categoria específica (exemplo todos
 os produtos que são pizza doce).
 salve as querys para cada uma dos requisitos o exercício em um arquivo .SQL ou texto e
-coloque no seu GitHuB pessoal e compartilhe esta atividade.
+coloque no seu GitHuB pessoal e compartilhe esta atividade.</p>
 
 ------------------------------------------------------------------------------------------------
 
 <h2><a href="https://github.com/Luis2k21/MySQL/blob/master/Dia%202/ex03Atividade.sql"> Atividade 3</a><h2/>
 
-Crie um banco de dados para um serviço de farmácia de uma empresa, o nome do banco
+<p></p>Crie um banco de dados para um serviço de farmácia de uma empresa, o nome do banco
 deverá ter o seguinte nome db_farmacia_do_bem, onde o sistema trabalhará com as
 informações dos produtos desta empresa.
 
@@ -108,13 +108,13 @@ Faça um um select com Inner join entre tabela categoria e produto.
 Faça um select onde traga todos os Produtos de uma categoria específica (exemplo todos
 os produtos que são cosméticos).
 salve as querys para cada uma dos requisitos o exercício em um arquivo .SQL ou texto e
-coloque no seu GitHuB pessoal e compartilhe esta atividade.
+coloque no seu GitHuB pessoal e compartilhe esta atividade.</p>
 
 ------------------------------------------------------------------------------------------------
 
 <h2><a href="https://github.com/Luis2k21/MySQL/blob/master/Dia%202/ex04Atividade.sql"> Atividade 4</a><h2/>
 
-Crie um banco de dados para um serviço de um açougue ou uma quitanda, o nome do
+<p></p>Crie um banco de dados para um serviço de um açougue ou uma quitanda, o nome do
 banco deverá ter o seguinte nome db_cidade_das_carnes ou db_cidade_das_frutas, onde o
 sistema trabalhará com as informações dos produtos desta empresa.
 
@@ -145,13 +145,13 @@ Faça um select onde traga todos os Produtos de uma categoria específica (exemp
 os produtos que são aves ou legumes).
 
 Salve as querys para cada uma dos requisitos do exercício em um arquivo .SQL ou texto e
-coloque no seu GitHuB pessoal e compartilhe esta atividade.
+coloque no seu GitHuB pessoal e compartilhe esta atividade.</p>
 
 ------------------------------------------------------------------------------------------------
 
 <h2><a href="https://github.com/Luis2k21/MySQL/blob/master/Dia%202/ex05Atividade.sql"> Atividade 5</a><h2/>
 
-Crie um banco de dados para um serviço de uma loja de produtos de construção, o nome
+<p></p>Crie um banco de dados para um serviço de uma loja de produtos de construção, o nome
 do banco deverá ter o seguinte nome db_construindo_a_nossa_vida, onde o sistema
 trabalhará com as informações dos produtos desta empresa.
 
@@ -182,13 +182,13 @@ Faça um select onde traga todos os Produtos de uma categoria específica (exemp
 os produtos que são da categoria hidráulica).
 
 Salve as querys para cada uma dos requisitos do exercício em um arquivo .SQL ou texto e
-coloque no seu GitHuB pessoal e compartilhe esta atividade.
+coloque no seu GitHuB pessoal e compartilhe esta atividade.</p>
 
 ------------------------------------------------------------------------------------------------
 
 <h2><a href="https://github.com/Luis2k21/MySQL/blob/master/Dia%202/ex06Atividade.sql"> Atividade 6</a><h2/>
 
-Crie um banco de dados para um serviço de um site de cursos onlines, o nome do banco
+<p></p>Crie um banco de dados para um serviço de um site de cursos onlines, o nome do banco
 deverá ter o seguinte nome db_cursoDaMinhaVida, onde o sistema trabalhará com as
 informações dos produtos desta empresa.
 
@@ -219,4 +219,4 @@ Faça um select onde traga todos os Produtos de uma categoria específica (exemp
 os produtos que são da categoria Java).
 
 Salve as querys para cada uma dos requisitos do exercício em um arquivo .SQL ou texto e
-coloque no seu GitHuB pessoal e compartilhe esta atividade.
+coloque no seu GitHuB pessoal e compartilhe esta atividade.</p>

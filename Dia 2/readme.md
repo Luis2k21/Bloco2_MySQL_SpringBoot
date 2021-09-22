@@ -40,7 +40,7 @@ coloque no seu GitHuB pessoal e compartilhe esta atividade.</p>
 
 -------------------------------------------------------------------------------------------------
 
-<h2><a href="https://github.com/Luis2k21/MySQL/blob/master/Dia%202/ex02Atividade.sql"> Atividade 2</a><h2/>
+<h2><a href="https://github.com/Luis2k21/MySQL/blob/master/Dia%202/ex02Atividade.sql"> Atividade 2</a></h2>
 
 <p>Crie um banco de dados para um serviço de pizzaria de uma empresa, o nome do banco
 deverá ter o seguinte nome db_pizzaria_legal, onde o sistema trabalhará com as
@@ -76,7 +76,7 @@ coloque no seu GitHuB pessoal e compartilhe esta atividade.</p>
 
 ------------------------------------------------------------------------------------------------
 
-<h2><a href="https://github.com/Luis2k21/MySQL/blob/master/Dia%202/ex03Atividade.sql"> Atividade 3</a><h2/>
+<h2><a href="https://github.com/Luis2k21/MySQL/blob/master/Dia%202/ex03Atividade.sql"> Atividade 3</a></h2>
 
 <p></p>Crie um banco de dados para um serviço de farmácia de uma empresa, o nome do banco
 deverá ter o seguinte nome db_farmacia_do_bem, onde o sistema trabalhará com as
@@ -112,7 +112,7 @@ coloque no seu GitHuB pessoal e compartilhe esta atividade.</p>
 
 ------------------------------------------------------------------------------------------------
 
-<h2><a href="https://github.com/Luis2k21/MySQL/blob/master/Dia%202/ex04Atividade.sql"> Atividade 4</a><h2/>
+<h2><a href="https://github.com/Luis2k21/MySQL/blob/master/Dia%202/ex04Atividade.sql"> Atividade 4</a></h2>
 
 <p></p>Crie um banco de dados para um serviço de um açougue ou uma quitanda, o nome do
 banco deverá ter o seguinte nome db_cidade_das_carnes ou db_cidade_das_frutas, onde o
@@ -149,7 +149,7 @@ coloque no seu GitHuB pessoal e compartilhe esta atividade.</p>
 
 ------------------------------------------------------------------------------------------------
 
-<h2><a href="https://github.com/Luis2k21/MySQL/blob/master/Dia%202/ex05Atividade.sql"> Atividade 5</a><h2/>
+<h2><a href="https://github.com/Luis2k21/MySQL/blob/master/Dia%202/ex05Atividade.sql"> Atividade 5</a></h2>
 
 <p></p>Crie um banco de dados para um serviço de uma loja de produtos de construção, o nome
 do banco deverá ter o seguinte nome db_construindo_a_nossa_vida, onde o sistema
@@ -186,7 +186,7 @@ coloque no seu GitHuB pessoal e compartilhe esta atividade.</p>
 
 ------------------------------------------------------------------------------------------------
 
-<h2><a href="https://github.com/Luis2k21/MySQL/blob/master/Dia%202/ex06Atividade.sql"> Atividade 6</a><h2/>
+<h2><a href="https://github.com/Luis2k21/MySQL/blob/master/Dia%202/ex06Atividade.sql"> Atividade 6</a></h2>
 
 <p></p>Crie um banco de dados para um serviço de um site de cursos onlines, o nome do banco
 deverá ter o seguinte nome db_cursoDaMinhaVida, onde o sistema trabalhará com as

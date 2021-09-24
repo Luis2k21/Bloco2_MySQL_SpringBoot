@@ -1,5 +1,5 @@
 <h1 align="center">
-    Exercicios MySQL Gen
+   Atividade de banco de dados relacional Mysql.
 </h1>
 
 [exercicios dia 21/09]

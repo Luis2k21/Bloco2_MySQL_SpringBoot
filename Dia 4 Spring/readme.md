@@ -25,4 +25,4 @@ essa semana. </p>
 <br></br>
 
 <h2>Atenção!!!</h2>
-<p> A pasta <Strong>Hello World</Strong> é apenas um exercicio teste feito em plenária</p>
+<p> A pasta <Strong>Hello World</Strong> é apenas um exercicio teste</p>

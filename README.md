@@ -8,5 +8,5 @@ Tabela
 	
 	    MySQL  ✔ Finalizado 
 	
-	   🚧  Spring Boot 🚀 Em progresso...  🚧
+	    SpringBoot  ✔ Finalizado 
 </h4>

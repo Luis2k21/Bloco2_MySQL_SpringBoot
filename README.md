@@ -6,7 +6,7 @@ Tabela
 
 <h4 align="center"> 
 	
-	    MySQL  ✔ Finalizado 
+	    MySQL  ✔ 
 	
-	    SpringBoot  ✔ Finalizado 
+	    SpringBoot  ✔ 
 </h4>
